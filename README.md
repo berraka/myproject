@@ -1,4 +1,4 @@
-[![my github page](https://img.shields.io/badge/anytext-youlike-blue)](github.com/berraka)
+[![my github page](https://img.shields.io/badge/my%20github%20page-F5275E)](https://github.com/berraka)
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
